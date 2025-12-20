@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Abdullah Siddique</h1>
-<h3 align="center">CS @ UT Dallas | AI/ML | ex-Amazon AGI SDE Intern</h3>
+<h3 align="center">CS @ UT Dallas | AI/ML | ex-Amazon AGI</h3>
 
 - 🔭 I’m currently working on [my own cli coding agent](https://github.com/msiddique12/coding-agent)
 
