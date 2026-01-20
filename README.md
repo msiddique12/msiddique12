@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Muhammad👋</h1>
 <h3 align="center">CS @ UT Dallas | AI/ML | ex-Amazon AGI</h3>
 
-- 🔭 I’m currently working on [my own cli coding agent](https://github.com/msiddique12/coding-agent)
+- 🔭 I’m currently working on [my own AI Agent observability & intelligence platform](https://github.com/msiddique12/vizpath)
 
 - 🌱 I’m currently learning **how to build powerful autonomous agents.**
 
